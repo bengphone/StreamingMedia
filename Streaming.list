@@ -295,7 +295,7 @@ USER-AGENT,TaiwanGood*,Streaming
 DOMAIN-SUFFIX,skyking.com.tw,Streaming
 DOMAIN,hamifans.emome.net,Streaming
 # 四季線上TV
-DOMAIN-SUFFIX,4gtv.tv,Streaming
+HOST-SUFFIX,4gtv.tv,Streaming
 # > TikTok
 USER-AGENT,TikTok*,Streaming
 DOMAIN-SUFFIX,byteoversea.com,Streaming
