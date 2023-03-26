@@ -27,8 +27,8 @@ HOST-SUFFIX,renovacionoffice.com, Streaming
 HOST-SUFFIX,sprinklesapp.com, Streaming
 
 #Zlibary
-HOST, singlelogin.me , Streaming
-HOST, lib-vupbz6u6wm4h4rdremcgbg4p.1lib.cz , Streaming
+HOST,singlelogin.me, Streaming
+HOST,lib-vupbz6u6wm4h4rdremcgbg4p.1lib.cz, Streaming
 # (Live)
 # > Twitch
 DOMAIN-SUFFIX,ext-twitch.tv,Streaming
