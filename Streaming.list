@@ -1,30 +1,34 @@
 # Streaming Media
 #Bing
-HOST-SUFFIX,bing.com,Bing
-HOST-SUFFIX,bing.com.cn,Bing
-HOST-SUFFIX,bing.net,Bing
-HOST-SUFFIX,bingads.com,Bing
-HOST-SUFFIX,bingagencyawards.com,Bing
-HOST-SUFFIX,bingapistatistics.com,Bing
-HOST-SUFFIX,bingsandbox.com,Bing
-HOST-SUFFIX,bingvisualsearch.com,Bing
-HOST-SUFFIX,bingworld.com,Bing
-HOST-SUFFIX,bluehatnights.com,Bing
-HOST-SUFFIX,dictate.ms,Bing
-HOST-SUFFIX,ditu.live.com,Bing
-HOST-SUFFIX,flipwithsurface.com,Bing
-HOST-SUFFIX,masalladeloslimites.com,Bing
-HOST-SUFFIX,microsoft-give.com,Bing
-HOST-SUFFIX,microsoftcloudsummit.com,Bing
-HOST-SUFFIX,microsoftdiplomados.com,Bing
-HOST-SUFFIX,microsoftlatamholiday.com,Bing
-HOST-SUFFIX,microsoftmxfilantropia.com,Bing
-HOST-SUFFIX,microsoftpartnersolutions.com,Bing
-HOST-SUFFIX,msunlimitedcloudsummit.com,Bing
-HOST-SUFFIX,office365love.com,Bing
-HOST-SUFFIX,office365tw.com,Bing
-HOST-SUFFIX,renovacionoffice.com,Bing
-HOST-SUFFIX,sprinklesapp.com,Bing
+HOST-SUFFIX,bing.com, Streaming
+HOST-SUFFIX,bing.com.cn, Streaming
+HOST-SUFFIX,bing.net, Streaming
+HOST-SUFFIX,bingads.com, Streaming
+HOST-SUFFIX,bingagencyawards.com, Streaming
+HOST-SUFFIX,bingapistatistics.com, Streaming
+HOST-SUFFIX,bingsandbox.com, Streaming
+HOST-SUFFIX,bingvisualsearch.com, Streaming
+HOST-SUFFIX,bingworld.com, Streaming
+HOST-SUFFIX,bluehatnights.com, Streaming
+HOST-SUFFIX,dictate.ms, Streaming
+HOST-SUFFIX,ditu.live.com, Streaming
+HOST-SUFFIX,flipwithsurface.com, Streaming
+HOST-SUFFIX,masalladeloslimites.com, Streaming
+HOST-SUFFIX,microsoft-give.com, Streaming
+HOST-SUFFIX,microsoftcloudsummit.com, Streaming
+HOST-SUFFIX,microsoftdiplomados.com, Streaming
+HOST-SUFFIX,microsoftlatamholiday.com, Streaming
+HOST-SUFFIX,microsoftmxfilantropia.com, Streaming
+HOST-SUFFIX,microsoftpartnersolutions.com, Streaming
+HOST-SUFFIX,msunlimitedcloudsummit.com, Streaming
+HOST-SUFFIX,office365love.com, Streaming
+HOST-SUFFIX,office365tw.com, Streaming
+HOST-SUFFIX,renovacionoffice.com, Streaming
+HOST-SUFFIX,sprinklesapp.com, Streaming
+
+#Zlibary
+HOST, singlelogin.me , Streaming
+HOST, lib-vupbz6u6wm4h4rdremcgbg4p.1lib.cz , Streaming
 # (Live)
 # > Twitch
 DOMAIN-SUFFIX,ext-twitch.tv,Streaming
