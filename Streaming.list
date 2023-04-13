@@ -1,4 +1,5 @@
 # Streaming Media
+HOST,torrentdownload.unblockit.click ,Streaming
 #Bing
 HOST-SUFFIX,bing.com, Streaming
 HOST-SUFFIX,bing.com.cn, Streaming
