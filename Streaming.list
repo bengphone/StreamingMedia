@@ -1,4 +1,5 @@
 # Streaming Media
+HOST,speed.cloudflare.com,Streaming
 HOST,torrentdownload.unblockit.click ,Streaming
 #Bing
 HOST-SUFFIX,bing.com, Streaming
