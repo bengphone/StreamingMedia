@@ -372,3 +372,9 @@ DOMAIN-SUFFIX,yt.be,Streaming
 DOMAIN-SUFFIX,ytimg.com,Streaming
 DOMAIN,youtubei.googleapis.com,Streaming
 DOMAIN,yt3.ggpht.com,Streaming
+#YouTubeMusic
+HOST,music.youtube.com,Streaming
+USER-AGENT,*YouTubeMusic*,Streaming
+USER-AGENT,*com.google.ios.youtubemusic*,Streaming
+USER-AGENT,YouTubeMusic*,Streaming
+USER-AGENT,com.google.ios.youtubemusic*,Streaming
