@@ -433,3 +433,13 @@ USER-AGENT,*YouTubeMusic*,Streaming
 USER-AGENT,*com.google.ios.youtubemusic*,Streaming
 USER-AGENT,YouTubeMusic*,Streaming
 USER-AGENT,com.google.ios.youtubemusic*,Streaming
+# PikPak
+HOST-SUFFIX,dlandroid.rcv.sandai.net,Streaming
+HOST-SUFFIX,hub5idx.v6.shub.sandai.net,Streaming
+HOST-SUFFIX,hub5pn.wap.sandai.net,Streaming
+HOST-SUFFIX,hub5pnc.sandai.net,Streaming
+HOST-SUFFIX,hub5pr.v6.phub.sandai.net,Streaming
+HOST-SUFFIX,hubciddata.sandai.net,Streaming
+HOST-SUFFIX,mypikpak.com,Streaming
+HOST-KEYWORD,mypikpak,Streaming
+
